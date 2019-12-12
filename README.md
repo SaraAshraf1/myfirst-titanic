@@ -1,4 +1,4 @@
 # myfirst-titanic
-Predict people were more likely to survive.
-Dataset from kaggle:
+Predict people were more likely to survive.<br />
+Dataset from kaggle:<br />
 https://www.kaggle.com/c/titanic/data
